@@ -1,1 +1,1 @@
-{"version": "1.0.2", "changelog": "exporter for enable/disable can place stash, whitelist/blacklist system enhanced and many more"}
+{"version": "1.0.3", "changelog": "Modify admin access for AceAllow. Allow returning the stash as an item when removed. Implement multiframework support (using ox_inventory)."}
