@@ -1,1 +1,1 @@
-{"version": "1.0.3", "changelog": "Modify admin access for AceAllow. Allow returning the stash as an item when removed. Implement multiframework support (using ox_inventory)."}
+{"version": "1.1.0", "changelog": "An option has been added to change stash passwords and manage admin access, without requiring code."}
